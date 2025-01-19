@@ -125,7 +125,7 @@ body {
 
 
 .featured-content {
-    background: url(./spiderman.jpg);
+    background: url(img/spiderman.jpg);
     padding: 50px;
     height: calc(100vh - 160px);
     background-size: 100% 100%;
